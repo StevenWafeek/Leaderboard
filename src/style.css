@@ -1,7 +1,7 @@
 
 .main {
   display: flex;
-  width: 55%;
+  width: 52%;
   justify-content: space-around;
 }
 
@@ -18,7 +18,8 @@
   align-items: flex-end;
   gap: 13px;
 }
-.score-container{
+
+.score-container {
   border: 2px solid;
   width: 100%;
   list-style: none;
