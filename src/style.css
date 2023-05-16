@@ -1,7 +1,16 @@
 
+* {
+  font-family: 'Press Start 2P', cursive;
+}
+
+body {
+  background: url(../img/ZuhpeV.gif);
+  background-position: center;
+}
+
 .main {
   display: flex;
-  width: 52%;
+  width: 95%;
   justify-content: space-around;
 }
 
@@ -28,4 +37,51 @@
   flex-direction: column;
   justify-content: space-around;
   gap: 11px;
+  border-radius: 7px;
+}
+
+.inputName {
+  background-color: #fff8e0;
+  box-shadow: 2px 3px 11px #0000003b inset;
+}
+
+.inputScore {
+  background-color: #fff8e0;
+  box-shadow: 2px 3px 11px #0000003b inset;
+}
+
+input {
+  padding: 11px;
+  box-shadow: -3px 4px 5px #ffe6ad inset;
+  background-color: #ffc14ede;
+  border: 2px solid;
+  border-radius: 7px;
+}
+
+.refresh:hover {
+  box-shadow: -3px 4px 5px #ffc14ede inset;
+  background-color: #ffd900;
+}
+
+.submitBtn:hover {
+  box-shadow: -3px 4px 5px #ffc14ede inset;
+  background-color: #ffd900;
+}
+
+h1 {
+  font-size: 34px;
+  background: -webkit-linear-gradient(173deg, #f00 51%, #ffeb00 81%, green 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+li {
+  padding: 4px;
+  border-radius: 6px;
+  background: #fbc11e;
+  font-size: 13px;
 }
