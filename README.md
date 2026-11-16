@@ -116,7 +116,7 @@ For Javascript linter errors:
 
 ### Deployment
 
-Deployed by GitHub Pages.
+For Vercel, `vercel.json` configures the deployment output directory as `dist`, where webpack generates the production files.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
