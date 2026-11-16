@@ -87,6 +87,8 @@ To run the project:
 
 Open the Project in your code editor and start Live Server inside the index.html file.
 
+Scores are stored through a shared object on the public [RESTful API demo](https://restful-api.dev/), so no backend setup is required. Names and scores are public, and the service may change or remove demo data; do not submit private information.
+
 ### Run tests
 
 To run tests, run the following commands:

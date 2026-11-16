@@ -40,6 +40,10 @@ body {
   border-radius: 7px;
 }
 
+.status-message {
+  font-size: 11px;
+}
+
 .inputName {
   background-color: #fff8e0;
   box-shadow: 2px 3px 11px #0000003b inset;
