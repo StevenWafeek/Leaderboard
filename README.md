@@ -137,7 +137,7 @@ For Vercel, `vercel.json` configures the deployment output directory as `dist`, 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://metrics-webapp-capstone-3kad.vercel.app/)
+- [Live Demo Link](https://leaderboard-beta-nine.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
